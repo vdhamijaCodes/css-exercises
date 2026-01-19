@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.Basic{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#one{
+    color: blue;
+    font-size: 36px;
+}
+
+#two{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
